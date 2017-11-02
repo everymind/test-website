@@ -9,4 +9,12 @@ We started by creating a simple website using just a README file.
 
 Let's make a link to [Wikipedia](https://www.wikipedia.org/).
 
-![Image](https://raw.githubusercontent.com/everymind/test-website/master/02_ARonautas_v1Brainstorm_FirstSketches.jpg)
+![Image](/02_ARonautas_v1Brainstorm_FirstSketches.jpg)
+
+**Team Members:**
+
+| Name | Hair Color | Age | Hobbies  |
+|------|------------|-----|----------|
+| Joao | Azul       | 34  | Math     |
+| DKim | Blonde     | 30  | Capoeira |
+
