@@ -9,4 +9,4 @@ We started by creating a simple website using just a README file.
 
 Let's make a link to [Wikipedia](https://www.wikipedia.org/).
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/6/63/James_Watt.jpg)
+![Image](https://raw.githubusercontent.com/everymind/test-website/master/02_ARonautas_v1Brainstorm_FirstSketches.jpg)
